@@ -54,7 +54,6 @@
 
 ### Finance & Operations
 
-* [Dynamics 365 - Business Central - Modernize Finance & Operations]()
 * [Dynamics 365 - Unified Operation - Finance & Operations On prem to Cloud]()
 * [Dynamics 365 - Unified Operations -  Modernize Human Resources]()
 * [Dynamics 365 - Unified Operations - Connected Commerce]()
@@ -70,6 +69,7 @@
 * [Dynamics 365 - Power Platform Learning Plan]()
 
 ### Scalable Business Management
+* [Dynamics 365 - Business Central - Modernize Finance & Operations]()
 
 ## Modern Workplance
 
