@@ -4,7 +4,7 @@
 
 ### Infrastructure
 
-* [Front Door](/Azure/Infrastructure/Front Door.md)
+* [Front Door](/Azure/Infrastructure/Front%20Door.md)
 * [Virtual WAN (SDWAN)](/Azure/Infrastructure/Virtual WAN (SDWAN).md)
 * [Windows Azure Firewall](/Azure/Infrastructure/Windows Azure Firewall.md)
 * [Threat Protection](/Azure/Infrastructure/Threat Protection.md)
